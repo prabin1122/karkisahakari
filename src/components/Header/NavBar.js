@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 function NavBar() {
   return (
     <div>
-      <div className='w-[50%]'>
+      <div className='w-[50%] p-[10px]'>
           <ul className='flex justify-between mr-[-200px]' >
               <li><Link to='/' className='hover:text-green-500'>Home</Link></li>
               <li><Link to='/about' className='hover:text-green-500'>About</Link></li>

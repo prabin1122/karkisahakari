@@ -1,0 +1,28 @@
+/* Service Hero Section */
+
+.ServiceHeroSection{
+    background-image: url(../../assets/images/ServiceFeature.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 10px;
+}
+
+
+
+/* Contact Hero Section */
+
+.ContactHeroSection{
+    background-image: url(../images/WorkInfo.jpeg);
+    background-size: cover;
+    background-position: 25%;
+}
+
+
+/* Testimonials Section */
+
+.Testimonial{
+    margin-top: 20px;
+    background-image: url(../images/TestimonialImage.jpeg);    
+    background-size: cover;
+    background-position: 25%;
+}

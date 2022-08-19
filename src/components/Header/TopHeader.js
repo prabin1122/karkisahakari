@@ -4,7 +4,7 @@ import {FaFacebook, FaInstagram, FaEnvelope} from 'react-icons/fa'
 
 function TopHeader() {
   return (
-    <div className="flex justify-between bg-[#6e6e6e] pl-5 pr-5 " >
+    <div className="flex justify-between bg-[#6e6e6e] p-[10px]" >
         <div className='w-50'>
             <h5 className='font-serif text-white hover:text-black'><Link to='/'>karkisahakari@mail.com</Link></h5>
         </div>

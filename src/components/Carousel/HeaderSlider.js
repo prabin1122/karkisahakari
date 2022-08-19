@@ -6,12 +6,13 @@ import './HeaderSlider.css'
 
 function HeaderSlider() {
   var settings = {
-    dots: true,
+    dots: false,
     autoplay: true,
-    showArrows: true,
+    showArrows: false,
+    overflow: 'hidden',
   }
   return (
-    <div className='h-[500px]'>
+    <div className='h-[600px]'>
       <Slider {...settings} >
         <div className='slider-backgroundImage1' >
           <div className='slider-box1'>

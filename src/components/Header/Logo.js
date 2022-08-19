@@ -4,7 +4,7 @@ import './Header.css'
 
 function LogoImage() {
   return (
-    <div className='w-[200px] pl-10'>
+    <div className='w-[300px] pl-10 p-[10px]'>
         <img src={Logo} />
     </div>
   )

@@ -1,25 +1,27 @@
 body{
     background-color: #6e6e6e;
+    overflow-x: hidde;
+
 }
 
 .slider-backgroundImage1{
     background-image: url(../../assets/images/SliderImage1.jpg);
     background-size: cover;
-    height: 500px;
+    height: 600px;
     text-align: center;
     
 }
 .slider-backgroundImage2{
     background-image: url(../../assets/images/SliderImage2.jpg);
     background-size: cover;
-    height: 500px;
+    height: 600px;
     text-align: center;
     
 }
 .slider-backgroundImage3{
     background-image: url(../../assets/images/SliderImage3.jpg);
     background-size: cover;
-    height: 500px;
+    height: 600px;
     text-align: center;
     
 }
@@ -28,7 +30,7 @@ body{
     background-color: #6e6e6e8c;
     display: flex;
     flex-direction: column;
-    height: 500px;
+    height: 600px;
     text-align: center;
     align-items: center;
 }
