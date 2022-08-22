@@ -12,7 +12,7 @@ function Form() {
                   <hr className='w-[30%] border-[#bcfd4c] border-4 rounded'/>
               </div>
           </div>
-          <div className='flex mt-10'>
+          <div className='flex mt-10 m-10 shadow-3xl'>
           <div className='w-[100%] lg:w-[50%]'>
             <form>
             <div className='flex'>
@@ -32,7 +32,7 @@ function Form() {
               <label>Subject
               <input type='message' placeholder='Type your message...' className='m-3'/>
               </label>
-              <input type='submit' />
+              <input type='submit' className='shadow-4xl hover:shadow-none'/>
             </form>
           </div>
           <div className='hidden lg:contents'>

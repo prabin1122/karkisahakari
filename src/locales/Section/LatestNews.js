@@ -9,7 +9,7 @@ function LatestNews() {
         <div className='pt-20' >
             <h1 className='flex justify-center text-5xl font-serif font-black text-[#bcfd4c]'>Latest News</h1>
             <div className='flex justify-center m-5'> 
-                <hr className='w-[30%] border-[#bcfd4c] border-4 rounded'/>
+                <hr className='w-[30%] border-[#bcfd4c] border-4 rounded mb-10'/>
             </div>
         </div>
         <div className='flex justify-around flex-col lg:flex-row'>
