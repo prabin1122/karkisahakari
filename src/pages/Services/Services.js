@@ -1,8 +1,9 @@
 import React from 'react'
+import ServiceSection from '../../locales/Section/ServiceSection'
 
 function Services() {
   return (
-    <div>Services</div>
+    <div><ServiceSection/></div>
   )
 }
 

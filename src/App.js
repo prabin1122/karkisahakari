@@ -7,6 +7,8 @@ import Routee from './routes/Routee.js';
 import NavBar from './components/Header/NavBar.js';
 import TopHeader from './components/Header/TopHeader.js';
 import MainMenu from './components/Header/MainMenu.js';
+import Footer from './components/Footer/Footer.js';
+import BottomFooter from './components/Footer/BottomFooter.js';
 
 
 function App() {
@@ -15,6 +17,8 @@ function App() {
       <TopHeader/>
       <MainMenu/>
       <Routee/>
+      <Footer/>
+      <BottomFooter/>
     </div>
   );
 }

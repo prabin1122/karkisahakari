@@ -12,8 +12,7 @@ import LatestNews from '../../locales/Section/LatestNews.js'
 import Testimonial from '../../locales/Hero/Testimonial.js'
 import Stats from '../../features/Stats.js'
 import Form from '../../features/Form.js'
-import Footer from '../../components/Footer/Footer.js'
-import BottomFooter from '../../components/Footer/BottomFooter.js'
+
 
 function Home() {
   return (
@@ -31,8 +30,6 @@ function Home() {
       <Testimonial/>
       <Stats/>
       <Form/>
-      <Footer/>
-      <BottomFooter/>
     </div>
   )
 }

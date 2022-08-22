@@ -12,7 +12,7 @@ function Form() {
                   <hr className='w-[30%] border-[#bcfd4c] border-4 rounded'/>
               </div>
           </div>
-          <div className='flex mt-10 m-10 shadow-3xl'>
+          <div className='flex mt-10 m-10 shadow-3xl '>
           <div className='w-[100%] lg:w-[50%]'>
             <form>
             <div className='flex'>
